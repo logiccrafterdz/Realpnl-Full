@@ -213,10 +213,5 @@ Before deploying, verify all these scenarios work correctly:
 
 MIT License — See [LICENSE](LICENSE) for details.
 
----
-
-## Contributing
-
-Contributions are welcome! Please read our contributing guidelines before submitting PRs.
 
 ---
