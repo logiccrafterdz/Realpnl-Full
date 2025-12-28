@@ -215,3 +215,7 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 
 ---
+## Disclaimer
+This project is for educational and analytical purposes only.
+It does not provide financial advice or trading recommendations.
+Use at your own risk.
