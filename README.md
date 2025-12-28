@@ -209,17 +209,6 @@ Before deploying, verify all these scenarios work correctly:
 
 ---
 
-## Future Roadmap
-
-- [ ] On-chain transaction import
-- [ ] Binance/Bybit API integration
-- [ ] Signal channel message parsing
-- [ ] Historical price charts
-- [ ] Multi-wallet tracking
-- [ ] Community leaderboards (opt-in)
-
----
-
 ## License
 
 MIT License — See [LICENSE](LICENSE) for details.
